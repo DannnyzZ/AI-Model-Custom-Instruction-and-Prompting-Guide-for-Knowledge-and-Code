@@ -8,11 +8,11 @@ This repository contains custom instructions designed to improve the efficient a
 
 **Description**: A formal instruction set that defines response style, sourcing, accuracy, coding, and knowledge structuring rules. Includes SKU and CMA output models to produce responses suitable for learning, investigation, coding, and knowledge-base population.
 When to Use in a Model:
-•	Apply this as a system-level prompt or custom instruction for AI models (e.g., ChatGPT, Gemini, Claude) when responses need to be:
-  o	Accurate, verified, and traceable
-  o	Technically precise and professional
-  o	Structured for learning or knowledge-base ingestion
-  o	Able to generate either brief explanations (SKU) or in-depth theory-to-practice content (CMA)
+- Apply this as a system-level prompt or custom instruction for AI models (e.g., ChatGPT, Gemini, Claude) when responses need to be:
+  - Accurate, verified, and traceable
+  - Technically precise and professional
+  - Structured for learning or knowledge-base ingestion
+  - Able to generate either brief explanations (SKU) or in-depth theory-to-practice content (CMA)
 
 ~~~
 START OF INSTRUCTIONS
