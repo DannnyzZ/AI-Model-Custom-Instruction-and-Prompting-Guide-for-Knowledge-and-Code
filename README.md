@@ -7,12 +7,14 @@ This repository contains custom instructions designed to improve the efficient a
 ## Instruction I - Cyber & IT Knowledge Base Production
 
 **Description**: A formal instruction set that defines response style, sourcing, accuracy, coding, and knowledge structuring rules. Includes SKU and CMA output models to produce responses suitable for learning, investigation, coding, and knowledge-base population.
-When to Use in a Model:
-- Apply this as a system-level prompt or custom instruction for AI models (e.g., ChatGPT, Gemini, Claude) when responses need to be:
-  - Accurate, verified, and traceable
-  - Technically precise and professional
-  - Structured for learning or knowledge-base ingestion
-  - Able to generate either brief explanations (SKU) or in-depth theory-to-practice content (CMA)
+
+**When to Use in a Model:**
+
+- **Technical Knowledge Base Construction** – creating reusable, structured documentation where concepts (e.g., programming constructs, security controls, protocols) are accurate and ready for direct inclusion using SKU or CMA models.
+- **Cybersecurity Research and Validation** – analysing threats, vulnerabilities, frameworks, standards, and vendor intelligence with strict evidence handling, source attribution, and bias control.
+- **Theory-to-Practice Technical Learning** – explaining software, systems, or security concepts connecting definitions and models with real-world usage, examples, and common mistakes.
+- **Verification of Technical and Security Claims** – assessing configurations, indicators, behaviours, or implementation guidance against authoritative sources, standards, and official documentation.
+- **Certification and Training Preparation **– producing structured, accurate, and verifiable knowledge suitable for IT and cybersecurity certifications, exams, or professional training materials.
 
 ~~~
 START OF INSTRUCTIONS
