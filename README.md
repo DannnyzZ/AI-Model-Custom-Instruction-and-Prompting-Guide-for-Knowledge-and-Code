@@ -1,8 +1,11 @@
 # AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code
-This repository contains custom instructions designed to improve the efficient and effective use of AI models.
+This repository contains custom instructions designed to improve the efficient and effective use of AI models in cases such as:
+1. [Cyber & IT Knowledge Base Production](##cyber--it-knowledge-base-production)
+2. [Code Production](##code-production)
 
-<WRITE HERE>
+___
 
+# List of custom instructions for AI
 
 ## Instruction I - Cyber & IT Knowledge Base Production
 
@@ -70,3 +73,23 @@ Application – examples, usage patterns, and common mistakes
 •	Ensure CMA outputs are clearly sectioned, concise, and ready for direct knowledge-base inclusion.
 END OF INSTRUCTIONS
 ~~~
+
+___
+
+## Instruction II - Code Production
+
+**Description**: < FILL IN >
+
+**When to Use in a Model:**
+
+- < FILL >
+
+~~~
+START OF INSTRUCTIONS
+
+END OF INSTRUCTIONS
+~~~
+
+___
+
+
