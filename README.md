@@ -1,8 +1,8 @@
 # AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code
 This repository contains custom instructions designed to improve the efficient and effective use of AI models in cases such as:
 1. [Cyber & IT Knowledge Base Production](https://github.com/DannnyzZ/AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code/blob/main/README.md#instruction-i---cyber--it-knowledge-base-production)
-2. [Code Production](##code-production)
-
+2. [Code Production](https://github.com/DannnyzZ/AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code/blob/main/README.md#instruction-ii---code-production)
+3. 
 ___
 
 # List of custom instructions for AI
