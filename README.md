@@ -1,13 +1,9 @@
-<img src="(https://www.pymnts.com/wp-content/uploads/2025/01/large-language-models-1.jpg)" alt="AI Model" width="400">
-
 # AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code
 This repository contains custom instructions designed to improve the efficient and effective use of AI models in cases such as:
 1. [Cyber & IT Knowledge Base Production](https://github.com/DannnyzZ/AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code/blob/main/README.md#cyber--it-knowledge-base-production)
 2. [Code Production](https://github.com/DannnyzZ/AI-Model-Custom-Instruction-and-Prompting-Guide-for-Knowledge-and-Code/blob/main/README.md#instruction-ii---code-production)
 3. 
 ___
-
-# List of custom instructions for AI
 
 ## Cyber & IT Knowledge Base Production
 
@@ -78,7 +74,7 @@ END OF INSTRUCTIONS
 
 ___
 
-## Instruction II - Code Production
+## Code Production
 
 **Description**: < FILL IN >
 
