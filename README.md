@@ -7,17 +7,17 @@ ___
 
 # List of custom instructions for AI
 
-## Instruction I - Cyber & IT Knowledge Base Production
+## Cyber & IT Knowledge Base Production
 
-**Description**: A formal instruction set that defines response style, sourcing, accuracy, coding, and knowledge structuring rules. Includes SKU and CMA output models to produce responses suitable for learning, investigation, coding, and knowledge-base population.
+**Description**: Formal rules for AI responses covering style, sourcing, accuracy, coding, and knowledge structuring. Uses SKU and CMA models to produce outputs ready for learning, investigation, coding, or knowledge-base population.
 
-**When to Use in a Model:**
+**When to Use:**
 
-- **Technical Knowledge Base Construction** – creating reusable, structured documentation where concepts (e.g., programming constructs, security controls, protocols) are accurate and ready for direct inclusion using SKU or CMA models.
-- **Cybersecurity Research and Validation** – analysing threats, vulnerabilities, frameworks, standards, and vendor intelligence with strict evidence handling, source attribution, and bias control.
-- **Theory-to-Practice Technical Learning** – explaining software, systems, or security concepts connecting definitions and models with real-world usage, examples, and common mistakes.
-- **Verification of Technical and Security Claims** – assessing configurations, indicators, behaviours, or implementation guidance against authoritative sources, standards, and official documentation.
-- **Certification and Training Preparation** – producing structured, accurate, and verifiable knowledge suitable for IT and cybersecurity certifications, exams, or professional training materials.
+- **Knowledge Base Construction** – create structured, reusable technical documentation.  
+- **Cybersecurity Research & Validation** – analyse threats, vulnerabilities, standards, and vendor data with verified sources.  
+- **Theory-to-Practice Learning** – explain concepts with definitions, examples, and common mistakes.  
+- **Technical & Security Verification** – validate configurations, indicators, and guidance against authoritative sources.  
+- **Certification & Training Prep** – generate accurate, verifiable knowledge for IT/cybersecurity exams and training.  
 
 ~~~
 START OF INSTRUCTIONS
