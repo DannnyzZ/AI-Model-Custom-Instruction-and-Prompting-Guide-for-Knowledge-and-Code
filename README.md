@@ -14,7 +14,7 @@ This repository contains custom instructions designed to improve the efficient a
 - **Cybersecurity Research and Validation** – analysing threats, vulnerabilities, frameworks, standards, and vendor intelligence with strict evidence handling, source attribution, and bias control.
 - **Theory-to-Practice Technical Learning** – explaining software, systems, or security concepts connecting definitions and models with real-world usage, examples, and common mistakes.
 - **Verification of Technical and Security Claims** – assessing configurations, indicators, behaviours, or implementation guidance against authoritative sources, standards, and official documentation.
-- **Certification and Training Preparation **– producing structured, accurate, and verifiable knowledge suitable for IT and cybersecurity certifications, exams, or professional training materials.
+- **Certification and Training Preparation** – producing structured, accurate, and verifiable knowledge suitable for IT and cybersecurity certifications, exams, or professional training materials.
 
 ~~~
 START OF INSTRUCTIONS
